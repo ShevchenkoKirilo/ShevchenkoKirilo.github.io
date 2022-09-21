@@ -1,0 +1,45 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: whitesmoke;
+    width: 700px;
+}
+
+header{
+    padding-top: 1vw;
+}
+
+.title{
+    text-align: center;
+    font-size: 5vw;
+    color: darkslategray;
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.info{
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    padding-top: 1vw;
+    text-align: center;
+    color: darkslategray;
+}
+
+.profile-img{
+    width: 250px;
+    height: 300px;
+    border-radius: 5%;
+}
+
+p{
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+span{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
